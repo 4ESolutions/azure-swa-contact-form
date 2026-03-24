@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+
+    /*"AZ_MAILFROM_ADDRESS": " --mailfrom address from Azure portal-- ",
+    "AZ_EMAIL_CONNECTION_STRING": " --connection string from Azure portal-- ",
+    "CONTACT_EMAIL_ADDRESS": " --your email address to receive messages-- "*/
+
+    "AZ_MAILFROM_ADDRESS": "DoNotReply@5d1bde2c-f76c-469b-8706-21a87e71a195.azurecomm.net",
+    "AZ_EMAIL_CONNECTION_STRING": "endpoint=https://4es-testemail.australia.communication.azure.com/;accesskey=xuxQe8nRfay8bOxcgLFfjzn1yB1bxv4gM8g6F9ZH7uowhovyhVHUJQQJ99CCACULyCpLpeP2AAAAAZCS3ZQY",
+    "CONTACT_EMAIL_ADDRESS": "harmikbatth@gmail.com"
+  }
+}
